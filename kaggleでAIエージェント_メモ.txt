@@ -1,0 +1,8 @@
+
+
+・VS code上でipynbファイルをpyファイルに変換する
+（kaggleのノートブックでFile/Editor type/Scriptでは１行のコードになってしまう。）
+
+・VS codeでpyファイルを開き、Copilotにスコアを上げる方法を提案してもらう（AIがファイルを直接書き換えてくれない）
+
+・Githubのレポジトリにpyファイルをアップロードし、Copilotにスコアを上げる方法を提案してもらう（AIがファイルを直接書き換えてくれる）
